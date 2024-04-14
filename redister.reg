@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\PotPlayer]
+@="URL:PotPlayer Protocol Handler"
+"URL Protocol"=""
+[HKEY_CLASSES_ROOT\PotPlayer\DefaultIcon]
+@="C:\\Green softs\\PotPlayer\\potplayershell.bat"
+[HKEY_CLASSES_ROOT\PotPlayer\shell]
+[HKEY_CLASSES_ROOT\PotPlayer\shell\open]
+[HKEY_CLASSES_ROOT\PotPlayer\shell\open\command]
+@="\"C:\\Green softs\\PotPlayer\\potplayershell.bat\" \"%1\""
